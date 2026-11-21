@@ -1,0 +1,5 @@
+IAM BIG MAN - SHOWCASE FINAL V3
+Added: showcase status, responsive/bilingual/demo feature cards, pricing terms FAQ.
+Preserved original site and shop pricing toggle.
+The listed prices are illustrative only; no payments or orders are enabled.
+Before launch: verify FR/EN, desktop/tablet, security tools, contact, privacy and legal disclosures.

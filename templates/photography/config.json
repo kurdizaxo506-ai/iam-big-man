@@ -1,0 +1,40 @@
+{
+  "brand": "Photo Portfolio",
+  "category": "Photography",
+  "tagline": "Votre partenaire photography de confiance.",
+  "description": "Un site professionnel personnalisable pour présenter vos services et recevoir des demandes de contact.",
+  "email": "bonjour@exemple.fr",
+  "phone": "+33 1 00 00 00 00",
+  "address": "Votre adresse, Votre ville",
+  "hours": "Lundi – Samedi · 09:00–18:00",
+  "accent": "#efefef",
+  "background": "#191919",
+  "currency": "EUR",
+  "items": [
+    {
+      "name": "Portrait éditorial",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    },
+    {
+      "name": "Mariage intimiste",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    },
+    {
+      "name": "Photo de marque",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": ""
+  },
+  "seoDescription": "Photo Portfolio — présentation, services et contact.",
+  "heroImage": "../../assets/photos/photography.webp",
+  "imageNote": "Illustration IA de démonstration ; à remplacer par une image autorisée du client."
+}

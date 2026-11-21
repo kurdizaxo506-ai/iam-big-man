@@ -1,0 +1,40 @@
+{
+  "brand": "Tech Startup",
+  "category": "Tech",
+  "tagline": "Votre partenaire tech de confiance.",
+  "description": "Un site professionnel personnalisable pour présenter vos services et recevoir des demandes de contact.",
+  "email": "bonjour@exemple.fr",
+  "phone": "+33 1 00 00 00 00",
+  "address": "Votre adresse, Votre ville",
+  "hours": "Lundi – Samedi · 09:00–18:00",
+  "accent": "#75d7ff",
+  "background": "#121a31",
+  "currency": "EUR",
+  "items": [
+    {
+      "name": "Tableau de bord",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    },
+    {
+      "name": "Automatisation",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    },
+    {
+      "name": "Collaboration",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": ""
+  },
+  "seoDescription": "Tech Startup — présentation, services et contact.",
+  "heroImage": "../../assets/photos/tech.webp",
+  "imageNote": "Illustration IA de démonstration ; à remplacer par une image autorisée du client."
+}

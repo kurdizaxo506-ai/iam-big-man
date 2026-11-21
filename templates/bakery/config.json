@@ -1,0 +1,40 @@
+{
+  "brand": "Artisan Bakery",
+  "category": "Bakery",
+  "tagline": "Votre partenaire bakery de confiance.",
+  "description": "Un site professionnel personnalisable pour présenter vos services et recevoir des demandes de contact.",
+  "email": "bonjour@exemple.fr",
+  "phone": "+33 1 00 00 00 00",
+  "address": "Votre adresse, Votre ville",
+  "hours": "Lundi – Samedi · 09:00–18:00",
+  "accent": "#f0b46e",
+  "background": "#2b1c14",
+  "currency": "EUR",
+  "items": [
+    {
+      "name": "Pain au levain",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    },
+    {
+      "name": "Croissant pur beurre",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    },
+    {
+      "name": "Tarte de saison",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": ""
+  },
+  "seoDescription": "Artisan Bakery — présentation, services et contact.",
+  "heroImage": "../../assets/photos/bakery.webp",
+  "imageNote": "Illustration IA de démonstration ; à remplacer par une image autorisée du client."
+}

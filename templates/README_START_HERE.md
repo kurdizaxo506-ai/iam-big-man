@@ -1,0 +1,1 @@
+20 templates indépendants. Chaque dossier contient index.html, style.css, app.js, config.json, legal.html et README.md. Déployez le dossier complet; adaptez config.json et les mentions légales. Formulaire mailto uniquement; aucun paiement/réservation/CMS. Les templates sont une base professionnelle à personnaliser et tester avant livraison client.

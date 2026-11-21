@@ -1,0 +1,40 @@
+{
+  "brand": "Learning Academy",
+  "category": "Education",
+  "tagline": "Votre partenaire education de confiance.",
+  "description": "Un site professionnel personnalisable pour présenter vos services et recevoir des demandes de contact.",
+  "email": "bonjour@exemple.fr",
+  "phone": "+33 1 00 00 00 00",
+  "address": "Votre adresse, Votre ville",
+  "hours": "Lundi – Samedi · 09:00–18:00",
+  "accent": "#b4b4ff",
+  "background": "#1b1c35",
+  "currency": "EUR",
+  "items": [
+    {
+      "name": "Développement web",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    },
+    {
+      "name": "Design numérique",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    },
+    {
+      "name": "Communication",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": ""
+  },
+  "seoDescription": "Learning Academy — présentation, services et contact.",
+  "heroImage": "../../assets/photos/education.webp",
+  "imageNote": "Illustration IA de démonstration ; à remplacer par une image autorisée du client."
+}

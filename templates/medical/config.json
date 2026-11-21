@@ -1,0 +1,40 @@
+{
+  "brand": "Wellness Center",
+  "category": "Medical",
+  "tagline": "Votre partenaire medical de confiance.",
+  "description": "Un site professionnel personnalisable pour présenter vos services et recevoir des demandes de contact.",
+  "email": "bonjour@exemple.fr",
+  "phone": "+33 1 00 00 00 00",
+  "address": "Votre adresse, Votre ville",
+  "hours": "Lundi – Samedi · 09:00–18:00",
+  "accent": "#a7e7c3",
+  "background": "#142922",
+  "currency": "EUR",
+  "items": [
+    {
+      "name": "Relaxation",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    },
+    {
+      "name": "Mouvement doux",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    },
+    {
+      "name": "Atelier respiration",
+      "description": "Une prestation ou une sélection à personnaliser pour votre activité.",
+      "price": null,
+      "category": "À découvrir"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": ""
+  },
+  "seoDescription": "Wellness Center — présentation, services et contact.",
+  "heroImage": "../../assets/photos/medical.webp",
+  "imageNote": "Illustration IA de démonstration ; à remplacer par une image autorisée du client."
+}

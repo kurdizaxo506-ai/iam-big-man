@@ -1,0 +1,11 @@
+IAM BIG MAN — V26
+
+ئەم فایلە ZIP ـە بکەرەوە. ناوەڕۆکی ناو فولدەری IAM_BIG_MAN_CLEAN_V26 دەبێت لە سەرەوەی GitHub repository بێت، نە خودی ZIP ـەکە.
+
+فایلە سەرەکییەکان: index.html ،assets/ ،demos/ ،templates/ .
+
+لە Acode فایل index.html بکەرەوە و Preview بکە. بۆ پێشبینینی دروستتر، local server بەکاربهێنە.
+
+سێ ئاگادارکردنەوەی جۆری پارامێتەرەکان لە index.html بە JSDoc ڕوون کراونەتەوە.
+
+ئاگاداری: پارەدان و booking backend دانەنراون. فۆرمی سەرەکی Formspree ـە؛ فۆرمەکانی demo mailto ـن.

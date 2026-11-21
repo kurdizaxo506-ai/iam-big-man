@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kurdizaxo506-ai.github.io/iam-big-man/sitemap.xml

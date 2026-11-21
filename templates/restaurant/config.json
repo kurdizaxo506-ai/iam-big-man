@@ -1,0 +1,64 @@
+{
+  "brand": "Restaurant Premium",
+  "category": "Restaurant",
+  "tagline": "Une cuisine qui se savoure, un lieu qui se partage.",
+  "description": "Une table chaleureuse, des produits de saison et des assiettes imaginées avec passion. Découvrez notre carte et notre univers.",
+  "email": "contact@exemple.fr",
+  "phone": "Téléphone à personnaliser",
+  "address": "Adresse à personnaliser · France",
+  "hours": "Mardi – Samedi · 12:00–14:30 / 19:00–22:30 (exemple)",
+  "accent": "#d8a96d",
+  "background": "#1b1713",
+  "currency": "EUR",
+  "items": [
+    {
+      "name": "Burrata & tomates anciennes",
+      "description": "Basilic frais, huile d’olive et pain croustillant.",
+      "price": 14,
+      "category": "Entrées",
+      "emoji": "🥗"
+    },
+    {
+      "name": "Risotto aux champignons",
+      "description": "Riz crémeux, champignons de saison et parmesan.",
+      "price": 24,
+      "category": "Plats",
+      "emoji": "🍄"
+    },
+    {
+      "name": "Filet de poisson rôti",
+      "description": "Légumes du marché et sauce citronnée.",
+      "price": 29,
+      "category": "Plats",
+      "emoji": "🐟"
+    },
+    {
+      "name": "Tarte au citron",
+      "description": "Crème citron et meringue légère.",
+      "price": 11,
+      "category": "Desserts",
+      "emoji": "🍋"
+    },
+    {
+      "name": "Moelleux au chocolat",
+      "description": "Cœur fondant et glace vanille.",
+      "price": 12,
+      "category": "Desserts",
+      "emoji": "🍫"
+    },
+    {
+      "name": "Cocktail signature",
+      "description": "Création fruitée sans alcool.",
+      "price": 9,
+      "category": "Boissons",
+      "emoji": "🍹"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": ""
+  },
+  "seoDescription": "Restaurant Premium — concept de restaurant gastronomique, carte et contact. Démonstration de portfolio.",
+  "heroImage": "../../assets/photos/restaurant.webp",
+  "imageNote": "Illustration IA de démonstration ; à remplacer par une image autorisée du client."
+}

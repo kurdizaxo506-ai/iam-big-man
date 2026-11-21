@@ -1,0 +1,18 @@
+IAM BIG MAN — DIGITAL STUDIO | RELEASE CANDIDATE
+
+1. Extract this ZIP. Keep index.html, hero-art.webp, privacy.html, sitemap.xml, robots.txt together.
+2. Open index.html in Acode Preview and check FR/EN, menu, hero image, security tools and Contact.
+3. Send one test contact request; verify the Formspree email is received.
+4. Only after testing, upload all website files to the ROOT of the GitHub repository (main branch).
+5. Open the public GitHub Pages URL in Chrome and repeat the test.
+
+PAYMENTS
+No card checkout is installed. Client requests are free; agree a quote and payment terms separately before beginning paid work. Do not request card numbers through the contact form.
+
+IMPORTANT BEFORE COMMERCIAL LAUNCH IN FRANCE
+Complete the legal identity, applicable mentions legales, privacy notice, contact details, and data retention period. Check legal/business registration and invoicing requirements for your situation.
+
+SECURITY
+Enable GitHub 2FA; keep repository free of secrets; confirm Formspree spam controls. Static GitHub Pages cannot provide every custom security header. No website can promise 100% protection.
+
+This release passed static JavaScript syntax validation, not a full browser, accessibility, legal or security audit.
