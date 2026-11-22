@@ -20,4 +20,36 @@
 <footer>© IAM BIG MAN Digital Studio · Démonstration fictive · Aucun paiement ni réservation</footer>
 <dialog id="details"><h3 id="detailTitle"></h3><p class="muted">Ceci est un aperçu de fonctionnalité. Le contenu est fictif et aucune demande n'est envoyée.</p><button id="close" type="button">Fermer</button></dialog>
 <script>const dlg=document.getElementById('details');document.querySelectorAll('[data-item]').forEach(b=>b.addEventListener('click',()=>{document.getElementById('detailTitle').textContent=b.dataset.item;dlg.showModal()}));document.getElementById('close').addEventListener('click',()=>dlg.close());</script>
+<script>
+(function(){
+  const translations = [
+    ["Services","Services"],
+    ["À propos","About"],
+    ["Contact","Contact"],
+    ["Découvrir nos services","Explore our services"],
+    ["Nous contacter","Contact us"],
+    ["Votre partenaire médical de confiance.","Your trusted medical partner."],
+    ["Un site professionnel personnalisable pour présenter vos services et recevoir des demandes de contact.","A customizable professional website to showcase your services and receive inquiries."]
+  ];
+  const bar=document.createElement('div');
+  bar.style.cssText='position:fixed;bottom:20px;left:20px;z-index:9999;background:#142922;padding:8px;border-radius:14px;box-shadow:0 4px 20px #0008';
+  bar.innerHTML='<button id="langFR" type="button">🇫🇷 FR</button> <button id="langEN" type="button">🇬🇧 EN</button>';
+  document.body.appendChild(bar);
+  function change(en){
+    document.documentElement.lang=en?'en':'fr';
+    const walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);
+    let node;
+    while(node=walker.nextNode()){
+      if(!node.parentElement || ['SCRIPT','STYLE'].includes(node.parentElement.tagName))continue;
+      let s=node.nodeValue;
+      for(const [fr,eng] of translations){
+        s=s.replaceAll(en?fr:eng,en?eng:fr);
+      }
+      node.nodeValue=s;
+    }
+  }
+  document.getElementById('langFR').onclick=()=>change(false);
+  document.getElementById('langEN').onclick=()=>change(true);
+})();
+</script>
 </body></html>
