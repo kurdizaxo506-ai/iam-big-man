@@ -538,3 +538,8 @@ search.addEventListener('input',render);select.addEventListener('change',render)
 new MutationObserver(render).observe(document.documentElement,{attributes:true,attributeFilter:['lang']});render();
 })();
 </script><script id="includes-translation">(function(){function update(){var en=document.documentElement.lang==='en';document.querySelectorAll('[data-includes-fr]').forEach(function(e){e.textContent=e.getAttribute(en?'data-includes-en':'data-includes-fr')})}new MutationObserver(update).observe(document.documentElement,{attributes:true,attributeFilter:['lang']});update()})();</script><script id="studio-showroom-language">(function(){const e=document.querySelector('[data-show-fr]');if(!e)return;function t(){e.textContent=e.getAttribute(document.documentElement.lang==='en'?'data-show-en':'data-show-fr')}new MutationObserver(t).observe(document.documentElement,{attributes:true,attributeFilter:['lang']});t()})();</script></body></html>
+<script>
+document.querySelectorAll('a[data-i="quote"]').forEach(function(a) {
+  a.href = '#website-shop';
+});
+</script>
